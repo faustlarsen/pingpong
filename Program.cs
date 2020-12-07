@@ -25,7 +25,7 @@ namespace PingPong {
         }
         else 
         {
-          Console.WriteLine(intNumber);
+          Console.WriteLine(index);
         }
       }
     }
